@@ -1,4 +1,4 @@
-# -Low-Impact-TCP-SYN-Scanning-CLI-Based-
+# Low-Impact-TCP-SYN-Scanning-CLI-Based-
 This repository documents a controlled network analysis exercise focused on identifying TCP probing behavior using command-line tools only.
 
 ## Scope
