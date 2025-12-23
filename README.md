@@ -28,7 +28,7 @@ The analysis demonstrates how low-impact scanning can be verified without aggres
 ## Focus
 Packet behavior, TCP flags, and response timing rather than alert-based assumptions.
 
-Lessons Learned
+ ## Lessons Learned
 
 Traffic volume alone is not a reliable indicator of scanning activity
 
